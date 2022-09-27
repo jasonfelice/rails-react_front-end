@@ -1,8 +1,7 @@
 # Rails_React front end
 > This app displays a random greenting.
 
-## Live demo
-[N/A](#)
+## [Front End](https://github.com/jasonfelice/rails-react_front-end)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
